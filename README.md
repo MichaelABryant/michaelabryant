@@ -1,4 +1,4 @@
-### Hi there 👋🏻 
+### Hi There 👋🏻 
 
 I come from a quantitative background in physics where I learned to design experiments, collect and analyze data, and present my results. I specialized in experimental physics and [wrote and defended a thesis on improving the energy density of TiO<sub>2</sub> capacitors](http://www.physics.nau.edu/~gibbs/Theses/Bryant/Thesis.pdf). My masters coursework included neural networks which was my first exposure to machine learning.
 
