@@ -2,7 +2,7 @@
 
 I come from a quantitative background in physics where I learned to design experiments, collect and analyze data, and present my findings through presentations and technical reports. I specialized in experimental physics where I [wrote and defended a thesis on improving the energy density of TiO<sub>2</sub> capacitors](http://www.physics.nau.edu/~gibbs/Theses/Bryant/Thesis.pdf). My masters coursework included neural networks which was my first exposure to machine learning.
 
-After my masters degree, I went to work at [Los Alamos National Laboratory](https://www.lanl.gov/) in the Engineered Materials Group. While most of what I did was experimental work, I also analyzed the data for several experiments. Due to the large volume of data, I sought out more efficient methods of data analysis which led me to take Andrew Ng's Machine Learning course on Coursera.
+After my masters degree, I went to work at [Los Alamos National Laboratory](https://www.lanl.gov/) in the Engineered Materials Group. Along with the engineering work, I analyzed data for several experiments. Due to the large volume of data, I sought out more efficient methods of data analysis which led me to take Andrew Ng's Machine Learning course on Coursera.
 
 I left Los Alamos to pursue a PhD in physics, but realized that I was more interested in data analysis and statistics than I am in doing the hands-on mechanical, electrical, and plumbing that comes along with experimental physics. With that said, I am currently looking for a position in data science/analytics.
 
