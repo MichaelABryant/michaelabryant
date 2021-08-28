@@ -16,7 +16,7 @@ I left Los Alamos to pursue a PhD in physics, but realized that I was more inter
 
 ### Contact Me 📱
 
-[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/MichaelBryantDS/) [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://michaelbryantds.github.io//) [<img target="_blank" src="https://img.icons8.com/emoji/64/000000/envelope-.png"/>](mailto:MichaelBryantDS@gmail.com)
+[<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://michaelbryantds.github.io//) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/MichaelBryantDS/) [<img target="_blank" src="https://img.icons8.com/emoji/64/000000/envelope-.png"/>](mailto:MichaelBryantDS@gmail.com)
 
 <!--
 **MichaelBryantDS/MichaelBryantDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
