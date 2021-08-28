@@ -14,6 +14,8 @@ I left Los Alamos to pursue a PhD in physics, but realized that I was more inter
 
 **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-Learn, Keras, SHAP, Eli5, Pickle, Flask
 
+**Software:** Microsoft Office, Microsoft SQL Server, Tableau
+
 ### Contact Me 📱
 
 [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://michaelbryantds.github.io//) [<img target="_blank" src="https://img.icons8.com/color/64/000000/linkedin.png"/>](https://www.linkedin.com/in/MichaelBryantDS/) [<img target="_blank" src="https://img.icons8.com/emoji/64/000000/envelope-.png"/>](mailto:MichaelBryantDS@gmail.com)
