@@ -8,7 +8,7 @@ I left Los Alamos to pursue a PhD in physics, but realized that I was more inter
 
 ### Skills :fire:
 
-**Techniques:** Exploratory Data Analysis, Data Visualization, Data Cleaning, Feature Engineering, Dimensionality Reduction, Machine Learning, Neural Networks, Feature Importance, Computer Vision
+**Techniques:** Exploratory Data Analysis, Data Visualization, Data Cleaning, Feature Engineering, Dimensionality Reduction, Machine Learning, Neural Networks, Computer Vision, Feature Importance
 
 **Languages:**  Python, SQL, HTML, CSS, MATLAB, LabVIEW, C, Assembly Language
 
