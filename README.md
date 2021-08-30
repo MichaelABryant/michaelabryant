@@ -1,6 +1,6 @@
 ### Hi There 👋🏻 
 
-I come from a quantitative background in physics where I learned to design experiments, collect and analyze data, and communicate my results. I specialized in experimental physics and [wrote and defended a thesis on improving the energy density of TiO<sub>2</sub> capacitors](http://www.physics.nau.edu/~gibbs/Theses/Bryant/Thesis.pdf). My masters coursework included neural networks which was my first exposure to machine learning.
+I come from a quantitative background in physics where I learned to design experiments, collect and analyze data, and communicate my results. I specialized in experimental physics and [wrote and defended a thesis on improving the energy density of TiO<sub>2</sub> capacitors](http://www.physics.nau.edu/~gibbs/Theses/Bryant/Thesis.pdf).
 
 After my masters degree, I went to work at [Los Alamos National Laboratory](https://www.lanl.gov/) in the Engineered Materials Group. Along with engineering, I analyzed data for several experiments. <sup>[[1]](https://drive.google.com/file/d/1OySLhO9CpHP-Pr9P3CRExrq3nnbOEYh8/view) [[2]](https://drive.google.com/file/d/1_ZKBHjLulXg3wCstsnPSik5e21PyvKIK/view)</sup>
 
