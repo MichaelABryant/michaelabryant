@@ -4,7 +4,7 @@ I come from a quantitative background in physics where I learned to design exper
 
 After my masters degree, I went to work at [Los Alamos National Laboratory](https://www.lanl.gov/) in the Engineered Materials Group. Along with engineering, I analyzed data for several experiments. <sup>[[1]](https://drive.google.com/file/d/1OySLhO9CpHP-Pr9P3CRExrq3nnbOEYh8/view) [[2]](https://drive.google.com/file/d/1_ZKBHjLulXg3wCstsnPSik5e21PyvKIK/view)</sup> To better my analysis skills, I sought out more advanced methods which led me to take Andrew Ng's Machine Learning course on Coursera.
 
-I left Los Alamos to pursue a PhD in physics, but realized that I was more interested in data analysis and that I could use my problem solving skills in a more meaningful way in industry than in academia. Therefore, I am pursuing a career working with data.
+I left Los Alamos to pursue a PhD in physics, but realized that I was more interested in data analysis and that I could use my problem solving skills in a more meaningful way in industry than in academia. Therefore, I have chosen to pursue a career in data science.
 
 ### Skills :fire:
 
