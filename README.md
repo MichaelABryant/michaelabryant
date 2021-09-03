@@ -1,4 +1,4 @@
-### Hi There 👋🏻 
+### About Me 
 
 I come from a quantitative background in physics where I learned to design experiments, collect and analyze data, and communicate my results. I specialized in experimental physics and [wrote and defended a thesis on improving the energy density of TiO<sub>2</sub> capacitors](http://www.physics.nau.edu/~gibbs/Theses/Bryant/Thesis.pdf).
 
@@ -6,7 +6,7 @@ After my masters degree, I went to work at [Los Alamos National Laboratory](http
 
 I left Los Alamos to continue my education in physics, but after a year I realized that I was more interested in data analysis and that I could use my problem solving skills in a more meaningful way in industry than in academia. Therefore, I have chosen to pursue a career in data science.
 
-### Skills :fire:
+### Skills
 
 **Techniques:** Exploratory Data Analysis, Data Visualization, Data Cleaning, Feature Engineering, Dimensionality Reduction, Machine Learning, Neural Networks, Computer Vision, Feature Importance
 
@@ -16,7 +16,7 @@ I left Los Alamos to continue my education in physics, but after a year I realiz
 
 **Software:** Microsoft Office, Microsoft SQL Server, Tableau
 
-### Contact Me 📱
+### Contact Information
 
 [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://michaelbryantds.github.io//) [<img target="_blank" src="https://img.icons8.com/color/64/000000/linkedin.png"/>](https://www.linkedin.com/in/MichaelBryantDS/) [<img target="_blank" src="https://img.icons8.com/emoji/64/000000/envelope-.png"/>](mailto:MichaelBryantDS@gmail.com)
 
