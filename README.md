@@ -10,7 +10,7 @@ I left Los Alamos to continue my education in physics, but after a year I realiz
 
 **Techniques:** Exploratory Data Analysis, Data Visualization, Data Cleaning, Feature Engineering, Dimensionality Reduction, Machine Learning, Neural Networks, Computer Vision, Feature Importance
 
-**Languages:**  Python, SQL, HTML, CSS, MATLAB, LabVIEW, C, Assembly Language
+**Languages:**  Python, SQL, HTML, CSS, MATLAB, LabVIEW, C, assembly
 
 **Python Libraries:** NumPy, pandas, Matplotlib, seaborn, statsmodels, scikit-learn, TensorFlow, Keras, SHAP, ELI5, pickle, Flask
 
