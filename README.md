@@ -12,7 +12,7 @@ I left Los Alamos to continue my education in physics, but after a year I realiz
 
 **Languages:**  Python, SQL, HTML, CSS, MATLAB, LabVIEW, C, Assembly Language
 
-**Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-Learn, TensorFlow, Keras, SHAP, Eli5, Pickle, Flask
+**Python Libraries:** NumPy, pandas, Matplotlib, seaborn, statsmodels, scikit-learn, TensorFlow, Keras, SHAP, ELI5, pickle, Flask
 
 **Software:** Microsoft Office, Microsoft SQL Server, Tableau
 
