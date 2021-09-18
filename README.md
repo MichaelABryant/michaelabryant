@@ -4,7 +4,7 @@ I have a quantitative background in physics where I learned to design experiment
 
 After my masters degree, I went to work at [Los Alamos National Laboratory](https://www.lanl.gov/) in the Engineered Materials Group. Along with engineering, I analyzed data for several experiments. <sup>[[1]](https://drive.google.com/file/d/1OySLhO9CpHP-Pr9P3CRExrq3nnbOEYh8/view) [[2]](https://drive.google.com/file/d/1_ZKBHjLulXg3wCstsnPSik5e21PyvKIK/view)</sup>
 
-I left Los Alamos to continue my education in physics, but after a year I realized that I was more interested in data analysis, programming, and machine learning. Therefore, I have chosen to pursue a career in data science.
+I left Los Alamos to continue my education in physics, but after a year I realized that I was more interested in the intersection of renewable energy and data science. So, I am now pursuing a career in renewable energy.
 
 ### Skills
 
