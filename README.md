@@ -1,8 +1,10 @@
 ### About Me 
 
+I earned a BS in Physics and a thesis-based MS in Applied Physics. My thesis focused on increasing the energy density of dielectric capacitors by varying dielectric material composition.<sub>[1](http://www.physics.nau.edu/~gibbs/Theses/Bryant/Thesis.pdf) I developed strong quantitative and computational skills during my physics education through coursework involving advanced mathematics (calculus, differential equations, linear algebra, and probability and statistics) and programming (MATLAB, C, C++, LabVIEW, and assembly). During my master's degree, I completed a computational physics course which introduced me to artificial neural networks. After earning a master's degree, I worked at Los Alamos National Laboratory for a year in a materials engineering group building experiments and performing data analyses.<sup>[2](https://drive.google.com/file/d/1OySLhO9CpHP-Pr9P3CRExrq3nnbOEYh8/view) [3](https://drive.google.com/file/d/1_ZKBHjLulXg3wCstsnPSik5e21PyvKIK/view)</sup> I returned to university for an applied physics doctorate program, but after a year I realized that I am more interested in the intersection of renewable energy and data science. I left the doctorate program and am now pursuing a career in renewable energy.
+
 I have a quantitative background in physics where I learned to design experiments, and collect, analyze, and interpret data. I specialized in experimental physics and [wrote and defended a thesis on improving the energy density of TiO<sub>2</sub> capacitors](http://www.physics.nau.edu/~gibbs/Theses/Bryant/Thesis.pdf).
 
-After my masters degree, I went to work at [Los Alamos National Laboratory](https://www.lanl.gov/) in the Engineered Materials Group. Along with engineering, I analyzed data for several experiments. <sup>[1](https://drive.google.com/file/d/1OySLhO9CpHP-Pr9P3CRExrq3nnbOEYh8/view) [2](https://drive.google.com/file/d/1_ZKBHjLulXg3wCstsnPSik5e21PyvKIK/view)</sup>
+After my masters degree, I went to work at [Los Alamos National Laboratory](https://www.lanl.gov/) in the Engineered Materials Group. Along with engineering, I analyzed data for several experiments. 
 
 I left Los Alamos to continue my education in physics. After a year I realized that I was more interested in the intersection of renewable energy and data science, so I am pursuing a career in renewable energy.
 
