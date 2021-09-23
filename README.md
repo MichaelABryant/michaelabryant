@@ -10,8 +10,6 @@ I have a BS in Physics and a thesis-based MS in Applied Physics. My thesis focus
 
 **Python Libraries:** NumPy, pandas, Matplotlib, seaborn, statsmodels, scikit-learn, TensorFlow, Keras, SHAP, ELI5, pickle, Flask
 
-**Software:** Microsoft Office, Microsoft SQL Server, Tableau
-
 ### Contact Information
 
 [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://michaelbryantds.github.io//) [<img target="_blank" src="https://img.icons8.com/color/64/000000/linkedin.png"/>](https://www.linkedin.com/in/michaelabryant/) [<img target="_blank" src="https://img.icons8.com/emoji/64/000000/envelope-.png"/>](mailto:m.alexander.bryant@gmail.com)
