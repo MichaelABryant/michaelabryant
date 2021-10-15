@@ -8,7 +8,7 @@ I have a BS in Physics and a thesis-based MS in Applied Physics. My thesis focus
 
 **Languages:**  Python, SQL, HTML/CSS, MATLAB, LabVIEW, C, assembly
 
-**Python Libraries:** NumPy, pandas, Matplotlib, seaborn, statsmodels, scikit-learn, TensorFlow, Keras, SHAP, ELI5, pickle, Flask
+**Python Libraries:** NumPy, pandas, Matplotlib, seaborn, statsmodels, scikit-learn, TensorFlow, Keras, Flask
 
 ### Contact Information
 
