@@ -6,7 +6,7 @@ I have a BS in Physics and a thesis-based MS in Applied Physics. My thesis focus
 
 **Techniques:** Exploratory Data Analysis, Data Visualization, Data Cleaning, Feature Engineering, Dimensionality Reduction, Machine Learning, Neural Networks, Computer Vision, Feature Importance
 
-**Languages:**  Python, SQL, HTML/CSS, MATLAB, LabVIEW, C, assembly
+**Languages:**  Python, MATLAB, LabVIEW, SQL, HTML/CSS, C, assembly
 
 **Python Libraries:** NumPy, pandas, Matplotlib, seaborn, statsmodels, scikit-learn, TensorFlow, Keras, Flask, Selenium
 
