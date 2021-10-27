@@ -4,7 +4,7 @@ I have a BS in Physics and a thesis-based MS in Applied Physics. My thesis focus
 
 ### Skills
 
-**Languages & Aptitudes:** Python (NumPy, pandas, matplotlib, seaborn, statsmodels, scikit-learn, TensorFlow, Keras, Flask, Selenium), MATLAB, LabVIEW, Microsoft Office, SQL, Tableau, HTML/CSS, git, C, assembly
+**Languages & Aptitudes:** Python (NumPy, pandas, matplotlib, seaborn, statsmodels, scikit-learn, TensorFlow, Keras, Flask, Selenium), MATLAB, LabVIEW, SQL, Microsoft Office, Tableau, HTML/CSS, git, C, assembly
 
 **Techniques:** data scraping, exploratory data analysis, data visualization, geospatial analysis, data cleaning, feature engineering, principal component analysis, hypothesis testing, regression (linear, polynomial, random forest, support vector machine), classification (naïve Bayes, logistic, k-nearest neighbors, random forest, support vector machine), ensemble learning (bagging, boosting, stacking, voting), k-means clustering, deep learning, feature importance
 
