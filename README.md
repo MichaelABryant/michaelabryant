@@ -6,7 +6,7 @@ I have a BS in Physics and a thesis-based MS in Applied Physics. My thesis focus
 
 **Languages & Aptitudes:** Python (NumPy, pandas, matplotlib, seaborn, statsmodels, scikit-learn, TensorFlow, Keras, Flask, Selenium), SQL Server, MATLAB, R, Microsoft Office, Tableau, git
 
-**Techniques:** data scraping, exploratory data analysis, data visualization, data cleaning, feature engineering, regression (linear, polynomial, k-nearest neighbors, random forest, support vector machine), classification (logistic, naive Bayes, k-nearest neighbors, random forest, support vector machine), deep learning (artificial, convolutional, recurrent), principal component analysis, k-means clustering
+**Techniques:** data scraping, exploratory data analysis, data visualization, data cleaning, feature engineering, regression (linear, polynomial, k-nearest neighbors, random forest, support vector machine), classification (logistic, naive Bayes, k-nearest neighbors, random forest, support vector machine), deep learning (artificial neural network, convolutional neural network), principal component analysis, k-means clustering
 
 
 ### Contact Information
