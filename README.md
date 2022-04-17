@@ -1,11 +1,11 @@
 ### About Me 
 
-I have a BS in Physics and a thesis-based MS in Applied Physics. The coursework for my master's degree covered topics in machine learning (with an emphasis on computer vision and deep learning). After earning my master's degree, I worked at Los Alamos National Laboratory for a year in an engineering group building experiments and performing data analyses.
+I have a BS in Physics and a thesis-based MS in Applied Physics. The coursework for my master's degree covered topics in machine learning. After earning my master's degree, I worked at Los Alamos National Laboratory for a year in an engineering group building experiments and performing data analyses.
 
 
 ### Contact Information
 
-[<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://www.kaggle.com/michaelbryantds) [<img target="_blank" src="https://img.icons8.com/color/64/000000/linkedin.png"/>](https://www.linkedin.com/in/mbryantds/) [<img target="_blank" src="https://img.icons8.com/emoji/64/000000/envelope-.png"/>](mailto:MichaelBryantDS@gmail.com)
+[<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://www.kaggle.com/michaelbryantds) [<img target="_blank" src="https://img.icons8.com/color/64/000000/linkedin.png"/>](https://www.linkedin.com/in/michaelabryant/) [<img target="_blank" src="https://img.icons8.com/emoji/64/000000/envelope-.png"/>](mailto:m.alexander.bryant@gmail.com)
 
 <!--
 **MichaelBryantDS/MichaelBryantDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
