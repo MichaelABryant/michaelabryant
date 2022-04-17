@@ -1,6 +1,6 @@
 ### About Me 
 
-I have a BS in Physics and a thesis-based MS in Applied Physics. The coursework for my master's degree covered topics in machine learning. After earning my master's degree, I worked at Los Alamos National Laboratory for a year in an engineering group building experiments and performing data analyses.
+I have a BS in Physics and a thesis-based MS in Applied Physics. The coursework for my master's degree included topics in simulations and machine learning. After earning my master's degree, I worked at Los Alamos National Laboratory for a year in an engineering group building experiments and performing data analyses.
 
 
 ### Contact Information
