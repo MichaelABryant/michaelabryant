@@ -2,11 +2,6 @@
 
 I have a BS in Physics and a thesis-based MS in Applied Physics. The coursework for my master's degree included topics in simulations and machine learning. After earning my master's degree, I worked at Los Alamos National Laboratory for a year in an engineering group running experiments and performing data analyses.
 
-
-### Contact Information
-
-[<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://michaelabryant.github.io/) [<img target="_blank" src="https://img.icons8.com/color/64/000000/linkedin.png"/>](https://www.linkedin.com/in/michaelabryant/) [<img target="_blank" src="https://img.icons8.com/emoji/64/000000/envelope-.png"/>](mailto:m.alexander.bryant@gmail.com)
-
 <!--
 **MichaelBryantDS/MichaelBryantDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
