@@ -1,6 +1,6 @@
 ### About Me 
 
-I have a BS in Physics and a thesis-based MS in Applied Physics. The coursework for my master's degree included topics in simulations and machine learning. After earning my master's degree, I worked at Los Alamos National Laboratory for a year in an engineering group running experiments and performing data analyses. I am currently enrolled in a master's degree program for Data Science.
+I have a BS in Physics and a thesis-based MS in Applied Physics. The coursework for my master's degree included topics in simulations and machine learning. After earning my master's degree, I worked at Los Alamos National Laboratory for a year in an engineering group running experiments and performing data analyses. I am currently enrolled in a program for an MS in Data Science.
 
 <!--
 **MichaelBryantDS/MichaelBryantDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
